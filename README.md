@@ -2,14 +2,20 @@
 
 [![Refresh status](https://github.com/Jeffrey-dai17/toronto-internships/actions/workflows/refresh.yml/badge.svg)](https://github.com/Jeffrey-dai17/toronto-internships/actions/workflows/refresh.yml)
 
-Last successful check · 2026-11-06 19:29 UTC
+Last successful check · 2026-11-07 06:10 UTC
 
-**83 open listings** · Sorted by posting date, newest first.
+**87 open listings** · Sorted by posting date, newest first.
 
 Includes tech internships and co-ops that list Toronto as a work location. Multi-city roles qualify. Start terms and open status come from the source feed. All listed 2027 terms are included. Exact start dates are unspecified in this feed. Check the employer page for dates and availability.
 
 | Employer | Role | Start term | Category | Locations | Posted | Application |
 | --- | --- | --- | --- | --- | --- | --- |
+| Qualcomm | Digital Design Engineer Intern - Interim Engineering Intern - Systems | Summer 2027 | Hardware | Toronto, ON, Canada | 2026-11-06 | [Apply](https://qualcomm.eightfold.ai/careers/job/446722005254) |
+| OLG | Analytics Engineering & Measurement Student Intern | Winter 2027 | AI/ML/Data | Toronto, ON, Canada, Sault Ste. Marie, ON, Canada | 2026-11-06 | [Apply](https://olg.wd3.myworkdayjobs.com/Careers-Students/job/Toronto-Ontario-Canada/Analytics-Engineering---Measurement-Student_R26_00700) |
+| Hootsuite | Software Developer Co-op Intern | Winter 2027 | Software | Toronto, ON, Canada, Vancouver, BC, Canada | 2026-11-06 | [Apply](https://job-boards.greenhouse.io/hootsuite/jobs/8360176) |
+| Bank of Montreal | Technology Research Associate Co-op Intern | Winter 2027 | Software | Toronto, ON, Canada | 2026-11-06 | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Technology-Research-Associate--Winter-2027--Co-op-Internship----4-months_R260024978) |
+| Bank of Montreal | Quantitative Analyst Co-op Intern | Summer 2027 | Quant | Toronto, ON, Canada | 2026-11-06 | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Quantitative-Analyst--Summer-2027--Co-op-Internship----4-Months_R260031097) |
+| Bank of Montreal | Quantitative Analyst Co-op Intern | Summer 2027 | AI/ML/Data | Toronto, ON, Canada | 2026-11-06 | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Quantitative-Analyst--Summer-2027--Co-op-Internship----4-Months_R260031097-1) |
 | Equitable Bank | Product Management Intern - Digital Banking | Winter 2027 | Product | Toronto, ON, Canada | 2026-11-05 | [Apply](https://jobs.lever.co/eqbank/e4ed38f2-5de1-405f-a02d-c21f421bc7c1/apply) |
 | Bank of Montreal | Machine Learning Developer Intern Co-op | Winter 2027 | Software | Toronto, ON, Canada | 2026-11-05 | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Machine-Learning-Developer--Winter-2027---Co-op-Internship----4-months_R260029620) |
 | Royal Bank of Canada | AI Engineer Co-op - Global Equities | Summer 2027 | AI/ML/Data | Toronto, ON, Canada | 2026-11-03 | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--Global-Equities--AI-Engineer--16-Months--Co-op-_R-0000187401-2) |
@@ -64,8 +70,6 @@ Includes tech internships and co-ops that list Toronto as a work location. Multi
 | Marvell | Data Center Silicon Hardware Engineering Intern Co-op - BS | Summer 2027 | Hardware | Toronto, ON, Canada, Ottawa, ON, Canada | 2026-09-24 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Data-Center-Silicon-Hardware-Engineering-Intern---BS---2027-Co-Op_2604525) |
 | Marvell | Analog Design Intern Co-op - Master’s | Summer 2027 | Hardware | Toronto, ON, Canada | 2026-09-24 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/Analog-Design-Intern--Master-s---2027-Co-Op_2603862) |
 | The Brattle Group | Energy Analyst Intern - Economics - Multiple Teams | Summer 2027 | AI/ML/Data | Toronto, ON, Canada | 2026-09-18 | [Apply](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4736066005) |
-| Qualcomm | MSIP Digital Design Verification Engineering Intern - HW | Summer 2027 | Hardware | Toronto, ON, Canada | 2026-09-18 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721156800) |
-| Qualcomm | Digital Design Engineer Intern | Summer 2027 | Hardware | Toronto, ON, Canada | 2026-09-18 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721156182) |
 | Qualcomm | Firmware Engineer Intern - Embedded Software Engineering - Embedded Firmware and SDK Development | Summer 2027 | Hardware | Toronto, ON, Canada | 2026-09-17 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721141411) |
 | NVIDIA | Quantum and Chemistry Research Intern - Quantum and AI for Chemistry | Summer 2027 | AI/ML/Data | Toronto, ON, Canada | 2026-09-16 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/PhD-Research-Intern--Quantum-and-AI-for-Chemistry---2027_JR2024997) |
 | Equitable Bank | Credit Risk Intern | Winter 2027 | Quant | Toronto, ON, Canada | 2026-09-15 | [Apply](https://jobs.lever.co/eqbank/de711d74-f78a-4cdd-a4a1-fdaa6e6602c3/apply) |
