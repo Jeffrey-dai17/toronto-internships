@@ -2,9 +2,9 @@
 
 [![Refresh status](https://github.com/Jeffrey-dai17/toronto-internships/actions/workflows/refresh.yml/badge.svg)](https://github.com/Jeffrey-dai17/toronto-internships/actions/workflows/refresh.yml)
 
-Last successful check · 2026-11-12 07:22 UTC
+Last successful check · 2026-11-12 20:03 UTC
 
-**78 open listings** · Sorted by posting date, newest first.
+**79 open listings** · Sorted by posting date, newest first.
 
 Includes tech internships and co-ops that list Toronto as a work location. Multi-city roles qualify. Start terms and open status come from the source feed. All listed 2027 terms are included. Exact start dates are unspecified in this feed. Check the employer page for dates and availability.
 
@@ -30,6 +30,7 @@ Includes tech internships and co-ops that list Toronto as a work location. Multi
 | Bank of Montreal | UX/UI Designer Co-op Intern | Winter 2027 | Software | Toronto, ON, Canada | 2026-11-02 | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/UX-UI-Designer--Winter-2027--Co-op-Internship---8-months_R260026951) |
 | Stripe | PhD Machine Learning Engineer Intern | Summer 2027 | AI/ML/Data | Toronto, ON, Canada | 2026-10-30 | [Apply](https://stripe.com/jobs/search?gh_jid=8328664) |
 | Stripe | Machine Learning Engineer Intern | Summer 2027 | AI/ML/Data | Toronto, ON, Canada | 2026-10-30 | [Apply](https://stripe.com/jobs/search?gh_jid=8333122) |
+| Ontario Securities Commission | Economic Co-op - Market & Analysis | Winter 2027 | AI/ML/Data | Toronto, ON, Canada | 2026-10-30 | [Apply](https://osc.wd3.myworkdayjobs.com/OSCCareers/job/CA-ON-Toronto/Economic--Market---Analysis-Co-op-Student_JR100976) |
 | Definity Financial | Direct Channel Operations Co-op Intern | Winter 2027 | AI/ML/Data | Toronto, ON, Canada | 2026-10-30 | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9470) |
 | CIBC | Project Analyst Co-op | Winter 2027 | AI/ML/Data | Toronto, ON, Canada | 2026-10-30 | [Apply](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Product-Analyst-Co-op--Winter-2027_2622544-1) |
 | CIBC | Project Analyst Co-op | Winter 2027 | AI/ML/Data | Toronto, ON, Canada | 2026-10-30 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Product-Analyst-Co-op--Winter-2027_2622544) |
