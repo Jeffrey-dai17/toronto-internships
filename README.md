@@ -2,9 +2,9 @@
 
 [![Refresh status](https://github.com/Jeffrey-dai17/toronto-internships/actions/workflows/refresh.yml/badge.svg)](https://github.com/Jeffrey-dai17/toronto-internships/actions/workflows/refresh.yml)
 
-Last successful check · 2026-11-11 19:42 UTC
+Last successful check · 2026-11-12 07:22 UTC
 
-**80 open listings** · Sorted by posting date, newest first.
+**78 open listings** · Sorted by posting date, newest first.
 
 Includes tech internships and co-ops that list Toronto as a work location. Multi-city roles qualify. Start terms and open status come from the source feed. All listed 2027 terms are included. Exact start dates are unspecified in this feed. Check the employer page for dates and availability.
 
@@ -47,7 +47,6 @@ Includes tech internships and co-ops that list Toronto as a work location. Multi
 | Boson Ai | MScAC Intern | Summer 2027 | AI/ML/Data | Toronto, ON, Canada | 2026-10-23 | [Apply](https://jobs.lever.co/bosonai/3b66f322-55eb-4c4b-9b36-028dfcdd85e9/apply) |
 | Hitachi | AI Intern Supply Chain | Winter 2027 | Software | Toronto, ON, Canada | 2026-10-20 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/AI-Intern--Supply-Chain--Winter-2027--12months-_R0145043) |
 | NVIDIA | ASIC Verification Intern | Summer 2027 | Hardware | Toronto, ON, Canada | 2026-10-19 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/ASIC-Verification-Intern---Summer-2027_JR2027982) |
-| Manulife Financial | AI Intern - AI | Spring 2027 | AI/ML/Data | Toronto, ON, Canada | 2026-10-19 | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Summer-Intern-2027---AI_JR26081688-1) |
 | HeyGen | Software Engineer Intern | Winter 2027 | Software | Toronto, ON, Canada, SF, LA, Singapore | 2026-10-19 | [Apply](https://job-boards.greenhouse.io/heygen/jobs/4540716007) |
 | FanDuel | Product Co-op | Spring 2027 | Product | Toronto, ON, Canada | 2026-10-19 | [Apply](https://boards.greenhouse.io/embed/job_app?token=8285180) |
 | CIBC | Application/Software Developer Co-op - Capital Markets Technology | Winter 2027 | Software | Toronto, ON, Canada | 2026-10-19 | [Apply](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Application-Software-Developer-Co-op--Winter-2027---Capital-Markets-Technology_2621523-1) |
@@ -60,7 +59,6 @@ Includes tech internships and co-ops that list Toronto as a work location. Multi
 | Hitachi Energy | Electrical Component Engineer Intern | Summer 2027 | Hardware | Toronto, ON, Canada | 2026-10-05 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Electrical-Component-Engineering-Intern--Winter-2027--16months-_R0145359) |
 | Hitachi Energy | Hardware Test Engineering Intern | Summer 2027 | Hardware | Toronto, ON, Canada | 2026-10-02 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Hardware-Test-Engineering-Intern--Summer-2027--16months-_R0142476) |
 | Stripe | Data Analyst Intern | Spring 2027 | AI/ML/Data | Toronto, ON, Canada | 2026-10-01 | [Apply](https://stripe.com/jobs/search?gh_jid=8194287) |
-| Qualcomm | Design Automation & Quality Assurance Engineer Intern | Summer 2027 | Software | Toronto, ON, Canada | 2026-10-01 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721349404) |
 | Pinterest | Machine Learning Intern | Summer 2027 | AI/ML/Data | Toronto, ON, Canada | 2026-10-01 | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=8138080) |
 | Marvell | Signal Integrity Intern Co-op | Fall 2027 | Hardware | Toronto, ON, Canada | 2026-09-28 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/CA-ON---Toronto---TOR/Hardware-Validation-Intern--MS---2027-Co-Op_2603755) |
 | Marvell | Analog Design Intern Co-op - Master’s | Summer 2027 | Hardware | Toronto, ON, Canada | 2026-09-24 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/Analog-Design-Intern--Master-s---2027-Co-Op_2603862) |
