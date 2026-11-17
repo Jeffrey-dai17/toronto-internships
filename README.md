@@ -2,9 +2,9 @@
 
 [![Refresh status](https://github.com/Jeffrey-dai17/toronto-internships/actions/workflows/refresh.yml/badge.svg)](https://github.com/Jeffrey-dai17/toronto-internships/actions/workflows/refresh.yml)
 
-Last successful check · 2026-11-16 22:16 UTC
+Last successful check · 2026-11-17 08:04 UTC
 
-**62 open listings** · Sorted by posting date, newest first.
+**57 open listings** · Sorted by posting date, newest first.
 
 Includes tech internships and co-ops that list Toronto as a work location. Multi-city roles qualify. Start terms and open status come from the source feed. All listed 2027 terms are included. Exact start dates are unspecified in this feed. Check the employer page for dates and availability.
 
@@ -23,7 +23,6 @@ Includes tech internships and co-ops that list Toronto as a work location. Multi
 | Bank of Montreal | Quantitative Analyst Co-op Intern | Summer 2027 | AI/ML/Data | Toronto, ON, Canada | 2026-11-06 | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Quantitative-Analyst--Summer-2027--Co-op-Internship----4-Months_R260031097-1) |
 | Equitable Bank | Product Management Intern - Digital Banking | Winter 2027 | Product | Toronto, ON, Canada | 2026-11-05 | [Apply](https://jobs.lever.co/eqbank/e4ed38f2-5de1-405f-a02d-c21f421bc7c1/apply) |
 | Qualcomm | Verification Engineer Intern | Summer 2027 | Hardware | Toronto, ON, Canada | 2026-11-02 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721913769) |
-| Qualcomm | Digital Design Engineer Intern | Summer 2027 | Hardware | Toronto, ON, Canada | 2026-11-02 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721913672) |
 | Stripe | PhD Machine Learning Engineer Intern | Summer 2027 | AI/ML/Data | Toronto, ON, Canada | 2026-10-30 | [Apply](https://stripe.com/jobs/search?gh_jid=8328664) |
 | Stripe | Machine Learning Engineer Intern | Summer 2027 | AI/ML/Data | Toronto, ON, Canada | 2026-10-30 | [Apply](https://stripe.com/jobs/search?gh_jid=8333122) |
 | Definity Financial | Direct Channel Operations Co-op Intern | Winter 2027 | AI/ML/Data | Toronto, ON, Canada | 2026-10-30 | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9470) |
@@ -62,11 +61,7 @@ Includes tech internships and co-ops that list Toronto as a work location. Multi
 | Lyft | Data Science Intern - Algorithms | Summer 2027 | AI/ML/Data | Toronto, ON, Canada | 2026-09-11 | [Apply](https://app.careerpuck.com/job-board/lyft/job/8767697002?gh_jid=8767697002) |
 | Lyft | Data Engineer Intern | Summer 2027 | AI/ML/Data | Toronto, ON, Canada | 2026-09-11 | [Apply](https://app.careerpuck.com/job-board/lyft/job/8797376002?gh_jid=8797376002) |
 | Amazon | Machine Learning Systems Software Development Engineer Intern - Annapurna Labs | Summer 2027, Winter 2027, Fall 2027 | Software | Toronto, ON, Canada | 2026-09-11 | [Apply](https://amazon.jobs/en/jobs/10538066/ml-systems-software-development-engineer-intern-annapurna-labs-2027) |
-| BitGo | Software Engineer Intern - Custody | Winter 2027 | Software | Toronto, ON, Canada | 2026-09-04 | [Apply](https://job-boards.greenhouse.io/bitgowinter2027/jobs/8783312002) |
-| BitGo | Product Management Intern | Winter 2027 | Product | Toronto, ON, Canada | 2026-09-04 | [Apply](https://job-boards.greenhouse.io/bitgowinter2027/jobs/8784786002) |
 | Kinaxis | Developer Co-op Intern - Machine Learning | Winter 2027 | AI/ML/Data | Toronto, ON, Canada, Ottawa, ON, Canada, Remote in Canada | 2026-09-03 | [Apply](https://kinaxis.jibeapply.com/jobs/35297?icims=1) |
-| BitGo | Software Engineer Intern - Settlement Systems/Go Network | Winter 2027 | Software | Toronto, ON, Canada | 2026-09-03 | [Apply](https://job-boards.greenhouse.io/bitgowinter2027/jobs/8779436002) |
-| BitGo | Software Engineer Intern - Prime Trade | Winter 2027 | Software | Toronto, ON, Canada | 2026-09-03 | [Apply](https://job-boards.greenhouse.io/bitgowinter2027/jobs/8779857002) |
 | Stripe | Software Engineer Intern - Summer or Winter | Winter 2027 | Software | Toronto, ON, Canada | 2026-09-01 | [Apply](https://stripe.com/jobs/search?gh_jid=8130805) |
 | Google | Software Developer Intern | Summer 2027 | Software | Montreal, QC, Canada, Toronto, ON, Canada, Waterloo, ON, Canada | 2026-08-24 | [Apply](https://www.google.com/about/careers/applications/jobs/results/112518690523488966) |
 | Georgian Partners Growth | AI/ML Engineer Intern | Fall 2027 | AI/ML/Data | Toronto, ON, Canada | 2026-07-21 | [Apply](https://jobs.ashbyhq.com/georgian/2ae71a4b-dd9d-4068-8ef2-81351ee74cab/application?embed=true) |
