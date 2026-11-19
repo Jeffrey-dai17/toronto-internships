@@ -2,7 +2,7 @@
 
 [![Refresh status](https://github.com/Jeffrey-dai17/toronto-internships/actions/workflows/refresh.yml/badge.svg)](https://github.com/Jeffrey-dai17/toronto-internships/actions/workflows/refresh.yml)
 
-Last successful check · 2026-11-19 07:36 UTC
+Last successful check · 2026-11-19 20:45 UTC
 
 **52 open listings** · Sorted by posting date, newest first.
 
@@ -10,6 +10,7 @@ Includes tech internships and co-ops that list Toronto as a work location. Multi
 
 | Employer | Role | Start term | Category | Locations | Posted | Application |
 | --- | --- | --- | --- | --- | --- | --- |
+| Manulife Financial | Technology Enablement Analyst Co-op | Winter 2027 | Software | Toronto, ON, Canada | 2026-11-17 | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Winter-Co-op-2027---Technology-Enablement-Analyst_JR26090774-1) |
 | Shopify | Software Engineer Intern | Summer 2027 | Software | Montreal, QC, Canada, Toronto, ON, Canada, Ottawa, ON, Canada | 2026-11-16 | [Apply](https://www.shopify.com/careers/can-software-engineering-internships-summer-2027_7ebb28da-0f4a-40ae-b41f-f5de60f3ca2a) |
 | Shopify | Data Intern | Summer 2027 | AI/ML/Data | Montreal, QC, Canada, Toronto, ON, Canada, NYC, Ottawa, ON, Canada | 2026-11-16 | [Apply](https://www.shopify.com/careers/data-internships-summer-2027_33763bbb-341b-4d78-be50-4076570e5e95) |
 | Shopify | Applied Machine Learning Engineer Intern | Summer 2027 | AI/ML/Data | Montreal, QC, Canada, Toronto, ON, Canada, Ottawa, ON, Canada | 2026-11-16 | [Apply](https://www.shopify.com/careers/applied-machine-learning-engineering-internships-summer-2027_1d6b9bb9-a132-4ad9-b33f-3e55d2cfc536) |
@@ -33,7 +34,6 @@ Includes tech internships and co-ops that list Toronto as a work location. Multi
 | Boson Ai | MScAC Intern | Summer 2027 | AI/ML/Data | Toronto, ON, Canada | 2026-10-23 | [Apply](https://jobs.lever.co/bosonai/3b66f322-55eb-4c4b-9b36-028dfcdd85e9/apply) |
 | Steel | Software Engineer Intern | Summer 2027 | Software | Toronto, ON, Canada | 2026-10-20 | [Apply](https://jobs.ashbyhq.com/steel/5fbdbebf-ddb2-4264-a941-3ab6d475208c/application?embed=true) |
 | Hitachi | AI Intern Supply Chain | Winter 2027 | Software | Toronto, ON, Canada | 2026-10-20 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/AI-Intern--Supply-Chain--Winter-2027--12months-_R0145043) |
-| NVIDIA | ASIC Verification Intern | Summer 2027 | Hardware | Toronto, ON, Canada | 2026-10-19 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/ASIC-Verification-Intern---Summer-2027_JR2027982) |
 | FanDuel | Product Co-op | Spring 2027 | Product | Toronto, ON, Canada | 2026-10-19 | [Apply](https://boards.greenhouse.io/embed/job_app?token=8285180) |
 | Waabi | Safety Methodologies Intern Co-op | Summer 2027 | AI/ML/Data | Toronto, ON, Canada, SF, Pittsburgh, PA | 2026-10-16 | [Apply](https://jobs.lever.co/waabi/480d9d41-33d0-429a-8883-7f9ec305a30f/apply) |
 | Kepler Communications | Software Engineer Intern | Winter 2027 | Software | Toronto, ON, Canada | 2026-10-16 | [Apply](https://jobs.lever.co/kepler/5514238a-8301-49f1-8116-26d38ea0900c/apply) |
