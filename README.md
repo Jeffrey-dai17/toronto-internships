@@ -2,9 +2,9 @@
 
 [![Refresh status](https://github.com/Jeffrey-dai17/toronto-internships/actions/workflows/refresh.yml/badge.svg)](https://github.com/Jeffrey-dai17/toronto-internships/actions/workflows/refresh.yml)
 
-Last successful check · 2026-11-18 20:39 UTC
+Last successful check · 2026-11-19 07:36 UTC
 
-**54 open listings** · Sorted by posting date, newest first.
+**52 open listings** · Sorted by posting date, newest first.
 
 Includes tech internships and co-ops that list Toronto as a work location. Multi-city roles qualify. Start terms and open status come from the source feed. All listed 2027 terms are included. Exact start dates are unspecified in this feed. Check the employer page for dates and availability.
 
@@ -25,7 +25,6 @@ Includes tech internships and co-ops that list Toronto as a work location. Multi
 | Qualcomm | Verification Engineer Intern | Summer 2027 | Hardware | Toronto, ON, Canada | 2026-11-02 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721913769) |
 | Stripe | PhD Machine Learning Engineer Intern | Summer 2027 | AI/ML/Data | Toronto, ON, Canada | 2026-10-30 | [Apply](https://stripe.com/jobs/search?gh_jid=8328664) |
 | Stripe | Machine Learning Engineer Intern | Summer 2027 | AI/ML/Data | Toronto, ON, Canada | 2026-10-30 | [Apply](https://stripe.com/jobs/search?gh_jid=8333122) |
-| Definity Financial | Direct Channel Operations Co-op Intern | Winter 2027 | AI/ML/Data | Toronto, ON, Canada | 2026-10-30 | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9470) |
 | TMX Group | Analyst – Market Insights Intern | Winter 2027 | AI/ML/Data | Toronto, ON, Canada | 2026-10-29 | [Apply](https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/Student-Intern---Analyst--Market-Insights--WinterTerm-_R-6586) |
 | Qualcomm | AI Software Systems Co-op Intern | Summer 2027 | Software | Toronto, ON, Canada | 2026-10-29 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721862430) |
 | Qualcomm | AI Software Engineering Co-op Intern | Summer 2027 | Software | Toronto, ON, Canada | 2026-10-29 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721862429) |
@@ -58,7 +57,6 @@ Includes tech internships and co-ops that list Toronto as a work location. Multi
 | Lyft | Data Science Intern - Algorithms | Summer 2027 | AI/ML/Data | Toronto, ON, Canada | 2026-09-11 | [Apply](https://app.careerpuck.com/job-board/lyft/job/8767697002?gh_jid=8767697002) |
 | Lyft | Data Engineer Intern | Summer 2027 | AI/ML/Data | Toronto, ON, Canada | 2026-09-11 | [Apply](https://app.careerpuck.com/job-board/lyft/job/8797376002?gh_jid=8797376002) |
 | Amazon | Machine Learning Systems Software Development Engineer Intern - Annapurna Labs | Summer 2027, Winter 2027, Fall 2027 | Software | Toronto, ON, Canada | 2026-09-11 | [Apply](https://amazon.jobs/en/jobs/10538066/ml-systems-software-development-engineer-intern-annapurna-labs-2027) |
-| Kinaxis | Developer Co-op Intern - Machine Learning | Winter 2027 | AI/ML/Data | Toronto, ON, Canada, Ottawa, ON, Canada, Remote in Canada | 2026-09-03 | [Apply](https://kinaxis.jibeapply.com/jobs/35297?icims=1) |
 | Stripe | Software Engineer Intern - Summer or Winter | Winter 2027 | Software | Toronto, ON, Canada | 2026-09-01 | [Apply](https://stripe.com/jobs/search?gh_jid=8130805) |
 | Google | Software Developer Intern | Summer 2027 | Software | Montreal, QC, Canada, Toronto, ON, Canada, Waterloo, ON, Canada | 2026-08-24 | [Apply](https://www.google.com/about/careers/applications/jobs/results/112518690523488966) |
 | Georgian Partners Growth | AI/ML Engineer Intern | Fall 2027 | AI/ML/Data | Toronto, ON, Canada | 2026-07-21 | [Apply](https://jobs.ashbyhq.com/georgian/2ae71a4b-dd9d-4068-8ef2-81351ee74cab/application?embed=true) |
