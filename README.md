@@ -2,7 +2,7 @@
 
 [![Refresh status](https://github.com/Jeffrey-dai17/toronto-internships/actions/workflows/refresh.yml/badge.svg)](https://github.com/Jeffrey-dai17/toronto-internships/actions/workflows/refresh.yml)
 
-Last successful check · 2026-11-19 20:45 UTC
+Last successful check · 2026-11-20 07:27 UTC
 
 **52 open listings** · Sorted by posting date, newest first.
 
@@ -10,6 +10,7 @@ Includes tech internships and co-ops that list Toronto as a work location. Multi
 
 | Employer | Role | Start term | Category | Locations | Posted | Application |
 | --- | --- | --- | --- | --- | --- | --- |
+| Georgian Partners Growth | Physical AI and Robotics Intern | Summer 2027 | AI/ML/Data | Toronto, ON, Canada | 2026-11-19 | [Apply](https://jobs.ashbyhq.com/georgian/62da47ff-0424-4e28-bffa-cff0de8ca228/application?embed=true) |
 | Manulife Financial | Technology Enablement Analyst Co-op | Winter 2027 | Software | Toronto, ON, Canada | 2026-11-17 | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Winter-Co-op-2027---Technology-Enablement-Analyst_JR26090774-1) |
 | Shopify | Software Engineer Intern | Summer 2027 | Software | Montreal, QC, Canada, Toronto, ON, Canada, Ottawa, ON, Canada | 2026-11-16 | [Apply](https://www.shopify.com/careers/can-software-engineering-internships-summer-2027_7ebb28da-0f4a-40ae-b41f-f5de60f3ca2a) |
 | Shopify | Data Intern | Summer 2027 | AI/ML/Data | Montreal, QC, Canada, Toronto, ON, Canada, NYC, Ottawa, ON, Canada | 2026-11-16 | [Apply](https://www.shopify.com/careers/data-internships-summer-2027_33763bbb-341b-4d78-be50-4076570e5e95) |
@@ -29,7 +30,6 @@ Includes tech internships and co-ops that list Toronto as a work location. Multi
 | TMX Group | Analyst – Market Insights Intern | Winter 2027 | AI/ML/Data | Toronto, ON, Canada | 2026-10-29 | [Apply](https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/Student-Intern---Analyst--Market-Insights--WinterTerm-_R-6586) |
 | Qualcomm | AI Software Systems Co-op Intern | Summer 2027 | Software | Toronto, ON, Canada | 2026-10-29 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721862430) |
 | Qualcomm | AI Software Engineering Co-op Intern | Summer 2027 | Software | Toronto, ON, Canada | 2026-10-29 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721862429) |
-| Bank of Montreal | Quantitative Trading Analyst Co-op | Summer 2027 | Quant | Toronto, ON, Canada | 2026-10-29 | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Quantitative-Trading-Analyst---12-16-Month-Co-op_R260029657) |
 | Hitachi | Software Analyst Intern | Winter 2027 | Hardware | Toronto, ON, Canada | 2026-10-27 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Software-Analyst-Intern--Fall-2026--8-months-_R0148741) |
 | Boson Ai | MScAC Intern | Summer 2027 | AI/ML/Data | Toronto, ON, Canada | 2026-10-23 | [Apply](https://jobs.lever.co/bosonai/3b66f322-55eb-4c4b-9b36-028dfcdd85e9/apply) |
 | Steel | Software Engineer Intern | Summer 2027 | Software | Toronto, ON, Canada | 2026-10-20 | [Apply](https://jobs.ashbyhq.com/steel/5fbdbebf-ddb2-4264-a941-3ab6d475208c/application?embed=true) |
