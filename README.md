@@ -2,9 +2,9 @@
 
 [![Refresh status](https://github.com/Jeffrey-dai17/toronto-internships/actions/workflows/refresh.yml/badge.svg)](https://github.com/Jeffrey-dai17/toronto-internships/actions/workflows/refresh.yml)
 
-Last successful check · 2026-11-21 07:21 UTC
+Last successful check · 2026-11-21 19:25 UTC
 
-**49 open listings** · Sorted by posting date, newest first.
+**50 open listings** · Sorted by posting date, newest first.
 
 Includes tech internships and co-ops that list Toronto as a work location. Multi-city roles qualify. Start terms and open status come from the source feed. All listed 2027 terms are included. Exact start dates are unspecified in this feed. Check the employer page for dates and availability.
 
@@ -48,6 +48,7 @@ Includes tech internships and co-ops that list Toronto as a work location. Multi
 | Equitable Bank | Credit Risk Intern | Winter 2027 | Quant | Toronto, ON, Canada | 2026-09-15 | [Apply](https://jobs.lever.co/eqbank/de711d74-f78a-4cdd-a4a1-fdaa6e6602c3/apply) |
 | DoorDash | Software Engineer Intern | Summer 2027 | Software | Toronto, ON, Canada | 2026-09-15 | [Apply](https://job-boards.greenhouse.io/doordashcanada/jobs/8170944) |
 | Definity Financial | Technology Business Administration Co-op Intern - IT Business Management | Winter 2027 | AI/ML/Data | Toronto, ON, Canada, Waterloo, ON, Canada | 2026-09-14 | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9345) |
+| BDO Canada | Full-Stack Developer Co-op Intern | Winter 2027 | Software | Toronto, ON, Canada, Oakville, ON, Canada, Ottawa, ON, Canada | 2026-09-14 | [Apply](https://bdo.wd3.myworkdayjobs.com/BDO/job/Toronto---Bay-St/Co-op-or-Intern--Full-Stack-Developer--January-2027-_JR7057) |
 | Lyft | Software Engineer Intern - Machine Learning | Summer 2027 | AI/ML/Data | Toronto, ON, Canada | 2026-09-11 | [Apply](https://app.careerpuck.com/job-board/lyft/job/8802332002?gh_jid=8802332002) |
 | Lyft | Software Engineer Intern - Fullstack | Summer 2027 | Software | Toronto, ON, Canada | 2026-09-11 | [Apply](https://app.careerpuck.com/job-board/lyft/job/8797859002?gh_jid=8797859002) |
 | Lyft | Software Engineer Intern | Summer 2027 | Software | Toronto, ON, Canada | 2026-09-11 | [Apply](https://app.careerpuck.com/job-board/lyft/job/8767710002?gh_jid=8767710002) |
