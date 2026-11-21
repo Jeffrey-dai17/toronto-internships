@@ -2,14 +2,15 @@
 
 [![Refresh status](https://github.com/Jeffrey-dai17/toronto-internships/actions/workflows/refresh.yml/badge.svg)](https://github.com/Jeffrey-dai17/toronto-internships/actions/workflows/refresh.yml)
 
-Last successful check · 2026-11-20 20:29 UTC
+Last successful check · 2026-11-21 07:21 UTC
 
-**50 open listings** · Sorted by posting date, newest first.
+**49 open listings** · Sorted by posting date, newest first.
 
 Includes tech internships and co-ops that list Toronto as a work location. Multi-city roles qualify. Start terms and open status come from the source feed. All listed 2027 terms are included. Exact start dates are unspecified in this feed. Check the employer page for dates and availability.
 
 | Employer | Role | Start term | Category | Locations | Posted | Application |
 | --- | --- | --- | --- | --- | --- | --- |
+| Mackenzie Investments | AI Program Intern | Winter 2027 | AI/ML/Data | Toronto, ON, Canada | 2026-11-20 | [Apply](https://careersen-mackenzieinvestments.icims.com/jobs/6446/job?mobile=true&needsRedirect=false) |
 | Georgian Partners Growth | Physical AI and Robotics Intern | Summer 2027 | AI/ML/Data | Toronto, ON, Canada | 2026-11-19 | [Apply](https://jobs.ashbyhq.com/georgian/62da47ff-0424-4e28-bffa-cff0de8ca228/application?embed=true) |
 | Shopify | Software Engineer Intern | Summer 2027 | Software | Montreal, QC, Canada, Toronto, ON, Canada, Ottawa, ON, Canada | 2026-11-16 | [Apply](https://www.shopify.com/careers/can-software-engineering-internships-summer-2027_7ebb28da-0f4a-40ae-b41f-f5de60f3ca2a) |
 | Shopify | Data Intern | Summer 2027 | AI/ML/Data | Montreal, QC, Canada, Toronto, ON, Canada, NYC, Ottawa, ON, Canada | 2026-11-16 | [Apply](https://www.shopify.com/careers/data-internships-summer-2027_33763bbb-341b-4d78-be50-4076570e5e95) |
@@ -28,7 +29,6 @@ Includes tech internships and co-ops that list Toronto as a work location. Multi
 | TMX Group | Analyst – Market Insights Intern | Winter 2027 | AI/ML/Data | Toronto, ON, Canada | 2026-10-29 | [Apply](https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/Student-Intern---Analyst--Market-Insights--WinterTerm-_R-6586) |
 | Qualcomm | AI Software Systems Co-op Intern | Summer 2027 | Software | Toronto, ON, Canada | 2026-10-29 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721862430) |
 | Qualcomm | AI Software Engineering Co-op Intern | Summer 2027 | Software | Toronto, ON, Canada | 2026-10-29 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721862429) |
-| Hitachi | Software Analyst Intern | Winter 2027 | Hardware | Toronto, ON, Canada | 2026-10-27 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Software-Analyst-Intern--Fall-2026--8-months-_R0148741) |
 | Boson Ai | MScAC Intern | Summer 2027 | AI/ML/Data | Toronto, ON, Canada | 2026-10-23 | [Apply](https://jobs.lever.co/bosonai/3b66f322-55eb-4c4b-9b36-028dfcdd85e9/apply) |
 | Steel | Software Engineer Intern | Summer 2027 | Software | Toronto, ON, Canada | 2026-10-20 | [Apply](https://jobs.ashbyhq.com/steel/5fbdbebf-ddb2-4264-a941-3ab6d475208c/application?embed=true) |
 | Hitachi | AI Intern Supply Chain | Winter 2027 | Software | Toronto, ON, Canada | 2026-10-20 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/AI-Intern--Supply-Chain--Winter-2027--12months-_R0145043) |
@@ -36,7 +36,6 @@ Includes tech internships and co-ops that list Toronto as a work location. Multi
 | Waabi | Safety Methodologies Intern Co-op | Summer 2027 | AI/ML/Data | Toronto, ON, Canada, SF, Pittsburgh, PA | 2026-10-16 | [Apply](https://jobs.lever.co/waabi/480d9d41-33d0-429a-8883-7f9ec305a30f/apply) |
 | Kepler Communications | Software Engineer Intern | Winter 2027 | Software | Toronto, ON, Canada | 2026-10-16 | [Apply](https://jobs.lever.co/kepler/5514238a-8301-49f1-8116-26d38ea0900c/apply) |
 | Equitable Bank | Software Engineer Intern | Winter 2027 | Software | Toronto, ON, Canada | 2026-10-08 | [Apply](https://jobs.lever.co/eqbank/c924506b-22ad-4906-aea5-61d9b79163f3/apply) |
-| Genesys | Web Software Developer Intern - WFM | Summer 2027 | Software | Toronto, ON, Canada | 2026-10-07 | [Apply](https://genesys.wd1.myworkdayjobs.com/2_genesys_jobs/job/Toronto-Flexible/Web-Software-Developer-Intern--WFM-_JR112214-3) |
 | Hitachi Energy | Electrical Component Engineer Intern | Summer 2027 | Hardware | Toronto, ON, Canada | 2026-10-05 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Electrical-Component-Engineering-Intern--Winter-2027--16months-_R0145359) |
 | Stripe | Data Analyst Intern | Spring 2027 | AI/ML/Data | Toronto, ON, Canada | 2026-10-01 | [Apply](https://stripe.com/jobs/search?gh_jid=8194287) |
 | Pinterest | Machine Learning Intern | Summer 2027 | AI/ML/Data | Toronto, ON, Canada | 2026-10-01 | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=8138080) |
