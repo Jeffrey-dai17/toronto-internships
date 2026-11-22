@@ -2,9 +2,9 @@
 
 [![Refresh status](https://github.com/Jeffrey-dai17/toronto-internships/actions/workflows/refresh.yml/badge.svg)](https://github.com/Jeffrey-dai17/toronto-internships/actions/workflows/refresh.yml)
 
-Last successful check · 2026-11-21 19:25 UTC
+Last successful check · 2026-11-22 07:01 UTC
 
-**50 open listings** · Sorted by posting date, newest first.
+**51 open listings** · Sorted by posting date, newest first.
 
 Includes tech internships and co-ops that list Toronto as a work location. Multi-city roles qualify. Start terms and open status come from the source feed. All listed 2027 terms are included. Exact start dates are unspecified in this feed. Check the employer page for dates and availability.
 
@@ -32,6 +32,7 @@ Includes tech internships and co-ops that list Toronto as a work location. Multi
 | Boson Ai | MScAC Intern | Summer 2027 | AI/ML/Data | Toronto, ON, Canada | 2026-10-23 | [Apply](https://jobs.lever.co/bosonai/3b66f322-55eb-4c4b-9b36-028dfcdd85e9/apply) |
 | Steel | Software Engineer Intern | Summer 2027 | Software | Toronto, ON, Canada | 2026-10-20 | [Apply](https://jobs.ashbyhq.com/steel/5fbdbebf-ddb2-4264-a941-3ab6d475208c/application?embed=true) |
 | Hitachi | AI Intern Supply Chain | Winter 2027 | Software | Toronto, ON, Canada | 2026-10-20 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/AI-Intern--Supply-Chain--Winter-2027--12months-_R0145043) |
+| NVIDIA | ASIC Verification Intern | Summer 2027 | Hardware | Toronto, ON, Canada | 2026-10-19 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/ASIC-Verification-Intern---Summer-2027_JR2027982) |
 | FanDuel | Product Co-op | Spring 2027 | Product | Toronto, ON, Canada | 2026-10-19 | [Apply](https://boards.greenhouse.io/embed/job_app?token=8285180) |
 | Waabi | Safety Methodologies Intern Co-op | Summer 2027 | AI/ML/Data | Toronto, ON, Canada, SF, Pittsburgh, PA | 2026-10-16 | [Apply](https://jobs.lever.co/waabi/480d9d41-33d0-429a-8883-7f9ec305a30f/apply) |
 | Kepler Communications | Software Engineer Intern | Winter 2027 | Software | Toronto, ON, Canada | 2026-10-16 | [Apply](https://jobs.lever.co/kepler/5514238a-8301-49f1-8116-26d38ea0900c/apply) |
