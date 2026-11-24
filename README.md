@@ -2,9 +2,9 @@
 
 [![Refresh status](https://github.com/Jeffrey-dai17/toronto-internships/actions/workflows/refresh.yml/badge.svg)](https://github.com/Jeffrey-dai17/toronto-internships/actions/workflows/refresh.yml)
 
-Last successful check · 2026-11-23 23:59 UTC
+Last successful check · 2026-11-24 10:02 UTC
 
-**52 open listings** · Sorted by posting date, newest first.
+**51 open listings** · Sorted by posting date, newest first.
 
 Includes tech internships and co-ops that list Toronto as a work location. Multi-city roles qualify. Start terms and open status come from the source feed. All listed 2027 terms are included. Exact start dates are unspecified in this feed. Check the employer page for dates and availability.
 
@@ -24,7 +24,6 @@ Includes tech internships and co-ops that list Toronto as a work location. Multi
 | Bank of Montreal | Quantitative Analyst Co-op Intern | Summer 2027 | Quant | Toronto, ON, Canada | 2026-11-06 | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Quantitative-Analyst--Summer-2027--Co-op-Internship----4-Months_R260031097) |
 | Bank of Montreal | Quantitative Analyst Co-op Intern | Summer 2027 | AI/ML/Data | Toronto, ON, Canada | 2026-11-06 | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Quantitative-Analyst--Summer-2027--Co-op-Internship----4-Months_R260031097-1) |
 | Equitable Bank | Product Management Intern - Digital Banking | Winter 2027 | Product | Toronto, ON, Canada | 2026-11-05 | [Apply](https://jobs.lever.co/eqbank/e4ed38f2-5de1-405f-a02d-c21f421bc7c1/apply) |
-| Qualcomm | Verification Engineer Intern | Summer 2027 | Hardware | Toronto, ON, Canada | 2026-11-02 | [Apply](https://qualcomm.eightfold.ai/careers/job/446721913769) |
 | Stripe | PhD Machine Learning Engineer Intern | Summer 2027 | AI/ML/Data | Toronto, ON, Canada | 2026-10-30 | [Apply](https://stripe.com/jobs/search?gh_jid=8328664) |
 | Stripe | Machine Learning Engineer Intern | Summer 2027 | AI/ML/Data | Toronto, ON, Canada | 2026-10-30 | [Apply](https://stripe.com/jobs/search?gh_jid=8333122) |
 | TMX Group | Analyst – Market Insights Intern | Winter 2027 | AI/ML/Data | Toronto, ON, Canada | 2026-10-29 | [Apply](https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/Student-Intern---Analyst--Market-Insights--WinterTerm-_R-6586) |
