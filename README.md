@@ -2,7 +2,7 @@
 
 [![Refresh status](https://github.com/Jeffrey-dai17/toronto-internships/actions/workflows/refresh.yml/badge.svg)](https://github.com/Jeffrey-dai17/toronto-internships/actions/workflows/refresh.yml)
 
-Last successful check · 2026-11-26 21:41 UTC
+Last successful check · 2026-11-27 08:45 UTC
 
 **51 open listings** · Sorted by posting date, newest first.
 
